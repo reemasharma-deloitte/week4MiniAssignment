@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_pekcINq7Eeyas5ZYz6XmyA" name="mini" id="_pePsANq7Eeyas5ZYz6XmyA" dataPackage="_pepUoNq7Eeyas5ZYz6XmyA" Server="Localhost 127.0.0.1" FilePath="C:/Users/reemasharma/Downloads/Sales data.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FooterValue="0" LimitValue="" FirstLineCaption="true" EscapeType="CSV" EscapeChar="&quot;\&quot;&quot;" TextEnclosure="&quot;\&quot;&quot;" CsvOption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_pepUoNq7Eeyas5ZYz6XmyA" name="default" dataManager="_pekcINq7Eeyas5ZYz6XmyA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_pep7sNq7Eeyas5ZYz6XmyA" id="_WWibUNq7Eeyas5ZYz6XmyA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pep7sdq7Eeyas5ZYz6XmyA" label="Region_Country_Item_Type_Sales_Channel_Order_Priority_Order_Date_Order_ID_Ship_Date_Units_Sold_Unit_Price_Unit_Cost" length="121" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

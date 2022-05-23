@@ -1,0 +1,16 @@
+[ {
+  "baseItem" : {
+    "id" : "_6CjakNq1Eeyas5ZYz6XmyA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_pePsANq7Eeyas5ZYz6XmyA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
